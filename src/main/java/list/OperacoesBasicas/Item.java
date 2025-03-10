@@ -23,6 +23,7 @@ public class Item {
     public Double getPreco() {
         return preco;
     }
+
     public Integer getQuantidade() {
         return quantidade;
     }
